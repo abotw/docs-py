@@ -1,6 +1,6 @@
 site_name: Python Docs
-site_url: http://abotw.github.io/py-docsite
-repo_url: https://github.com/abotw/py-docsite
+site_url: http://abotw.github.io/Docs-PY
+repo_url: https://github.com/abotw/Docs-PY
 theme:
   name: material
   features:
